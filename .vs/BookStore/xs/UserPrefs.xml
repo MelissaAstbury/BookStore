@@ -1,4 +1,6 @@
 ﻿<Properties StartupConfiguration="{AE00F455-FCF4-40AD-9F50-B89CFDE38442}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BookStore PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,11 +14,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.BookStore PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
